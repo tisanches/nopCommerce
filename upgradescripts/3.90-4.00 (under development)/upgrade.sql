@@ -140,6 +140,9 @@ set @resources='
   <LocaleResource Name="Admin.Configuration.Settings.Order.AllowAdminsToBuyCallForPriceProducts.Hint">
     <Value>Check to allow administrators (in impersonation mode) are allowed to buy products marked as "Call for price".</Value>
   </LocaleResource>
+  <LocaleResource Name="Account.AssociatedExternalAuth.EmailAlreadyExists">
+    <Value>A user with the specified email has been already registered. If this is your account, and you want to associate it with ''{0}'' external record, please login firstly.</Value>
+  </LocaleResource>
 </Language>
 '
 
